@@ -16,7 +16,10 @@ Android Developer focused on building scalable, maintainable, and production-rea
 - Offline-first data handling
 - Jetpack Compose & modern Android stack
 - Open to Junior, Mid-level, Freelance & Remote opportunities
-
+- 5,000+ lines of Kotlin
+- Room
+- Scalable structure
+- Offline support
 ---
 
 ## 🚀 Featured Project
