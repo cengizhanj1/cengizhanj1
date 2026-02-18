@@ -44,7 +44,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍  Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cengizhanj1/cengizhanj1/output/github-contribution-grid-snake.svg" />
