@@ -2,38 +2,86 @@
   <img src="https://skillicons.dev/icons?i=kotlin,java,flutter" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Cengizhan</h1>
-<h3 align="center">Android Mobile Developer from Turkey 🇹🇷</h3>
+<h1 align="center">Cengizhan Alevok</h1>
+<h3 align="center">Android Mobile Developer | Kotlin | Clean Architecture</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-- 🔭 Currently building **Advanced Kotlin Android Projects**
-- 🌱 Learning **Jetpack Compose & Android Testing**
-- 🏗 Focused on **MVVM & Clean Architecture**
-- 💬 Ask me about **Kotlin, Firebase, Android Architecture**
-- 📫 Reach me at **alevokcengizhan@gmail.com**
+Android Developer focused on building scalable, maintainable, and production-ready mobile applications using modern Android architecture principles.
 
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/cengizhan-alevok-bb807728a/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://medium.com/@alevokcengizhan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-</p>
+- Strong focus on **MVVM & Clean Architecture**
+- Building **real-world structured Android projects**
+- Experienced with **Firebase & Offline-first development**
+- Currently improving **Jetpack Compose & Testing skills**
+- Interested in **Junior, Mid-level, Freelance & Remote opportunities**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Project
+
+### 🚜 TarimApp – Smart Agriculture Management Application
+
+A scalable Android application structured with modern architecture principles.
+
+**Architecture**
+- MVVM + Clean Architecture
+- Repository Pattern
+- Single Source of Truth
+
+**Tech Stack**
+- Kotlin
+- Jetpack Compose
+- Hilt (Dependency Injection)
+- Room Database
+- Firebase Authentication & Firestore
+- Coroutines & Flow
+
+**Engineering Focus**
+- Structured folder architecture
+- Lifecycle-aware components
+- State management best practices
+- Offline data support
+- Scalable for future modularization
+
+---
+
+## 🛠 Technical Skills
+
+**Languages**
+- Kotlin
+- Java
+- Dart (Flutter)
+
+**Android Stack**
+- Jetpack Compose
+- XML UI
+- ViewModel
+- LiveData / Flow
+- Hilt
+- Room
+- Firebase
+- Coroutines
+
+**Architecture & Practices**
+- MVVM
+- Clean Architecture
+- Repository Pattern
+- State Management
+- Git Version Control
+
+---
+
+## 🌐 Connect With Me
 
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio,firebase,git,github" />
+<a href="https://linkedin.com/in/cengizhan-alevok-bb807728a/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://medium.com/@alevokcengizhan" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
@@ -46,7 +94,7 @@
 
 ---
 
-## 🐍  Snake
+## 🐍 Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cengizhanj1/cengizhanj1/output/github-contribution-grid-snake.svg" />
