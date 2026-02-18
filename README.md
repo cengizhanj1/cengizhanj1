@@ -9,27 +9,56 @@
 
 ## 👨‍💻 Professional Summary
 
-Android Developer focused on building scalable, maintainable, and production-ready mobile applications using modern Android architecture principles.
+Android Developer focused on building maintainable and production-ready mobile applications using modern Android architecture.
 
 - MVVM & Clean Architecture focused
 - Firebase integrated applications
 - Offline-first data handling
 - Jetpack Compose & modern Android stack
-- Open to Junior, Mid-level, Freelance & Remote opportunities
-- 5,000+ lines of Kotlin
-- Room
-- Scalable structure
-- Offline support
+- Published app on Google Play
+- Open to Junior, Freelance & Remote opportunities
+
 ---
 
-## 🚀 Featured Project
+# 🚀 Production Application
 
-### 🚜 TarimApp – Smart Agriculture Management Application
+## 🎮 Color Dodge – Reflex Arcade Game
+
+📱 Google Play:  
+https://play.google.com/store/apps/details?id=com.cengizhan.colordodge  
+
+💻 GitHub Repository:  
+https://github.com/cengizhanj1/DODGE-ADDED  
+
+A real-time arcade game built with custom rendering logic and AdMob monetization.
+
+### Engineering Highlights
+
+- Custom SurfaceView rendering
+- GameThread implementation
+- Collision detection logic
+- Lifecycle-aware AdMob integration
+- Banner + Interstitial + Rewarded Ads
+- Optimized drawing cycle
+- Lightweight performance-focused structure
+
+### Tech Used
+
+- Kotlin
+- Canvas API
+- Custom Game Loop
+- AdMob SDK
+
+---
+
+# 🚀 Featured Project
+
+## 🚜 TarimApp – Smart Agriculture Management Application
 
 🔗 Repository:  
-👉 https://github.com/cengizhanj1/tarimApp
+https://github.com/cengizhanj1/tarimApp
 
-A structured Android application built with modern architecture principles and scalable design patterns.
+A structured Android application built with modern architecture principles.
 
 ### Architecture
 - MVVM
@@ -40,7 +69,7 @@ A structured Android application built with modern architecture principles and s
 ### Tech Stack
 - Kotlin
 - Jetpack Compose
-- Hilt (Dependency Injection)
+- Hilt
 - Room Database
 - Firebase Authentication & Firestore
 - Coroutines & Flow
@@ -50,7 +79,7 @@ A structured Android application built with modern architecture principles and s
 - Lifecycle-aware components
 - State management best practices
 - Offline support
-- Maintainable & scalable codebase
+- Maintainable codebase
 
 ---
 
@@ -106,7 +135,7 @@ A structured Android application built with modern architecture principles and s
 
 ---
 
-## 🐍 snake
+## 🐍 Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cengizhanj1/cengizhanj1/output/github-contribution-grid-snake.svg" />
