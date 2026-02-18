@@ -11,11 +11,11 @@
 
 Android Developer focused on building scalable, maintainable, and production-ready mobile applications using modern Android architecture principles.
 
-- Strong focus on **MVVM & Clean Architecture**
-- Building **real-world structured Android projects**
-- Experienced with **Firebase & Offline-first development**
-- Currently improving **Jetpack Compose & Testing skills**
-- Interested in **Junior, Mid-level, Freelance & Remote opportunities**
+- MVVM & Clean Architecture focused
+- Firebase integrated applications
+- Offline-first data handling
+- Jetpack Compose & modern Android stack
+- Open to Junior, Mid-level, Freelance & Remote opportunities
 
 ---
 
@@ -23,14 +23,18 @@ Android Developer focused on building scalable, maintainable, and production-rea
 
 ### 🚜 TarimApp – Smart Agriculture Management Application
 
-A scalable Android application structured with modern architecture principles.
+🔗 Repository:  
+👉 https://github.com/cengizhanj1/tarimApp
 
-**Architecture**
-- MVVM + Clean Architecture
+A structured Android application built with modern architecture principles and scalable design patterns.
+
+### Architecture
+- MVVM
+- Clean Architecture
 - Repository Pattern
 - Single Source of Truth
 
-**Tech Stack**
+### Tech Stack
 - Kotlin
 - Jetpack Compose
 - Hilt (Dependency Injection)
@@ -38,23 +42,29 @@ A scalable Android application structured with modern architecture principles.
 - Firebase Authentication & Firestore
 - Coroutines & Flow
 
-**Engineering Focus**
-- Structured folder architecture
+### Engineering Focus
+- Modular-ready structure
 - Lifecycle-aware components
 - State management best practices
-- Offline data support
-- Scalable for future modularization
+- Offline support
+- Maintainable & scalable codebase
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio,firebase,git,github" />
+</p>
+
+### Core Skills
 
 **Languages**
 - Kotlin
 - Java
 - Dart (Flutter)
 
-**Android Stack**
+**Android**
 - Jetpack Compose
 - XML UI
 - ViewModel
@@ -68,8 +78,7 @@ A scalable Android application structured with modern architecture principles.
 - MVVM
 - Clean Architecture
 - Repository Pattern
-- State Management
-- Git Version Control
+- Git & Version Control
 
 ---
 
@@ -94,7 +103,7 @@ A scalable Android application structured with modern architecture principles.
 
 ---
 
-## 🐍 Snake
+## 🐍 snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cengizhanj1/cengizhanj1/output/github-contribution-grid-snake.svg" />
