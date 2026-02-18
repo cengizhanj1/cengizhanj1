@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Cengizhan Alevok</h1>
-<h3 align="center">Android Mobile Developer | Kotlin | Java|Flutter</h3>
+<h3 align="center">Android Mobile Developer | Kotlin | Java | Flutter</h3>
 
 ---
 
