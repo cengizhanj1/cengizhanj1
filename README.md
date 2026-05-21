@@ -12,20 +12,14 @@ Android Developer focused on modern mobile architecture and scalable application
 
 ## About Me
 
-Android Developer focused on building scalable and maintainable mobile applications using modern Android technologies.
+Android Developer focused on modern mobile application development using Kotlin and clean architecture principles.
 
-Experienced with:
-
-- Kotlin & Jetpack Compose
-- MVVM & Clean Architecture
-- Firebase & Room Database
-- Offline-first architecture
-- Modern Android UI systems
-
-Currently improving my expertise in scalable mobile systems and production-ready Android development.
-
----
-
+- Jetpack Compose
+- MVVM Architecture
+- Firebase
+- Room Database
+- Coroutines
+- Modern Android UI
 # Featured Projects
 
 ## TarimApp – Smart Agriculture Management Application
@@ -52,11 +46,7 @@ Structured Android application built with modern architecture principles.
 - Room Database
 - Firebase
 - Coroutines
-
----
-
 ## Color Dodge – Reflex Arcade Game
-
 📱 Google Play:  
 https://play.google.com/store/apps/details?id=com.cengizhan.colordodge
 
@@ -80,18 +70,11 @@ A real-time arcade game built with custom rendering logic and AdMob monetization
 - Canvas API
 - Custom Game Loop
 - AdMob SDK
-
----
-
 ## UI/UX Design Project
-
 💻 GitHub Repository:  
 https://github.com/cengizhanj1/figma-uiux-shopping-app
-
 Mobile UI/UX shopping application designed in Figma for internship project.
-
 ### Included Screens
-
 - Login Screen
 - Home Screen
 - Detail Screen
@@ -104,8 +87,6 @@ Mobile UI/UX shopping application designed in Figma for internship project.
 - Grid System
 - Mobile-first UI design
 - User flow prototype
-
----
 
 # Tech Stack
 
@@ -125,8 +106,6 @@ Firebase • Firestore • Authentication
 
 Git • GitHub • Android Studio • Figma
 
----
-
 ## Current Focus
 
 - Advanced Android Architecture
@@ -134,13 +113,6 @@ Git • GitHub • Android Studio • Figma
 - Modern UI/UX implementation
 - Real-world production apps
 
-Open to:
-
-- Junior Android Developer roles
-- Internship opportunities
-- Freelance mobile projects
-
----
 
 ## Connect With Me
 
