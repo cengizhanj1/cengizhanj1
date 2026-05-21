@@ -1,46 +1,78 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio,firebase,git,github" />
 </p>
 
 <h1 align="center">Cengizhan Alevok</h1>
-<h3 align="center">Android Mobile Developer | Kotlin | Java | Flutter</h3>
+
+<h3 align="center">
+Android Developer focused on modern mobile architecture and scalable applications.
+</h3>
 
 ---
 
-## 👨‍💻 Professional Summary
+## About Me
 
-Android Developer focused on building maintainable and production-ready mobile applications using modern Android architecture.
+Android Developer focused on building scalable and maintainable mobile applications using modern Android technologies.
 
-- MVVM & Clean Architecture focused
-- Firebase integrated applications
-- Offline-first data handling
-- Jetpack Compose & modern Android stack
-- Published app on Google Play
-- Open to Junior, Freelance & Remote opportunities
+Experienced with:
+
+- Kotlin & Jetpack Compose
+- MVVM & Clean Architecture
+- Firebase & Room Database
+- Offline-first architecture
+- Modern Android UI systems
+
+Currently improving my expertise in scalable mobile systems and production-ready Android development.
 
 ---
 
-# 🚀 Production Application
+# Featured Projects
 
-## 🎮 Color Dodge – Reflex Arcade Game
+## TarimApp – Smart Agriculture Management Application
+
+🔗 Repository:  
+https://github.com/cengizhanj1/tarimApp
+
+Structured Android application built with modern architecture principles.
+
+### Highlights
+
+- MVVM & Clean Architecture
+- Firebase Authentication & Firestore
+- Room Database integration
+- Coroutines & Flow
+- Offline-first support
+- Modular-ready structure
+
+### Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- Hilt
+- Room Database
+- Firebase
+- Coroutines
+
+---
+
+## Color Dodge – Reflex Arcade Game
 
 📱 Google Play:  
-https://play.google.com/store/apps/details?id=com.cengizhan.colordodge  
+https://play.google.com/store/apps/details?id=com.cengizhan.colordodge
 
 💻 GitHub Repository:  
-https://github.com/cengizhanj1/DODGE-ADDED  
+https://github.com/cengizhanj1/DODGE-ADDED
 
 A real-time arcade game built with custom rendering logic and AdMob monetization.
 
-### Engineering Highlights
+### Highlights
 
 - Custom SurfaceView rendering
 - GameThread implementation
-- Collision detection logic
-- Lifecycle-aware AdMob integration
-- Banner + Interstitial + Rewarded Ads
-- Optimized drawing cycle
-- Lightweight performance-focused structure
+- Collision detection system
+- AdMob integration
+- Optimized rendering cycle
+- Lightweight architecture
 
 ### Tech Used
 
@@ -51,75 +83,72 @@ A real-time arcade game built with custom rendering logic and AdMob monetization
 
 ---
 
-# 🚀 Featured Project
+## UI/UX Design Project
 
-## 🚜 TarimApp – Smart Agriculture Management Application
+💻 GitHub Repository:  
+https://github.com/cengizhanj1/figma-uiux-shopping-app
 
-🔗 Repository:  
-https://github.com/cengizhanj1/tarimApp
+Mobile UI/UX shopping application designed in Figma for internship project.
 
-A structured Android application built with modern architecture principles.
+### Included Screens
 
-### Architecture
-- MVVM
-- Clean Architecture
-- Repository Pattern
-- Single Source of Truth
+- Login Screen
+- Home Screen
+- Detail Screen
 
-### Tech Stack
-- Kotlin
-- Jetpack Compose
-- Hilt
-- Room Database
-- Firebase Authentication & Firestore
-- Coroutines & Flow
+### Design Focus
 
-### Engineering Focus
-- Modular-ready structure
-- Lifecycle-aware components
-- State management best practices
-- Offline support
-- Maintainable codebase
+- Auto Layout
+- Components
+- Variants
+- Grid System
+- Mobile-first UI design
+- User flow prototype
 
 ---
 
-## 🛠 Tech Stack
+# Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio,firebase,git,github" />
-</p>
+### Mobile
 
-### Core Skills
+Kotlin • Java • Flutter
 
-**Languages**
-- Kotlin
-- Java
-- Dart (Flutter)
+### Android
 
-**Android**
-- Jetpack Compose
-- XML UI
-- ViewModel
-- LiveData / Flow
-- Hilt
-- Room
-- Firebase
-- Coroutines
+Jetpack Compose • XML • ViewModel • Room • Hilt • Coroutines
 
-**Architecture & Practices**
-- MVVM
-- Clean Architecture
-- Repository Pattern
-- Git & Version Control
+### Backend & Cloud
+
+Firebase • Firestore • Authentication
+
+### Tools
+
+Git • GitHub • Android Studio • Figma
 
 ---
 
-## 🌐 Connect With Me
+## Current Focus
+
+- Advanced Android Architecture
+- Scalable mobile systems
+- Modern UI/UX implementation
+- Real-world production apps
+
+Open to:
+
+- Junior Android Developer roles
+- Internship opportunities
+- Freelance mobile projects
+
+---
+
+## Connect With Me
 
 <p>
 <a href="https://linkedin.com/in/cengizhan-alevok-bb807728a/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
 <a href="https://medium.com/@alevokcengizhan" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
@@ -127,16 +156,12 @@ A structured Android application built with modern architecture principles.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cengizhanj1&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cengizhanj1&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cengizhanj1/cengizhanj1/output/github-contribution-grid-snake.svg" />
 </p>
